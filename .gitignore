@@ -175,3 +175,8 @@ module-1/homework.dbcnb
 module-1/output.csv
 module-1/taxi_zone_lookup.csv
 module-1/postgres_data
+module-1/terraform_infra/.terraform
+module-1/terraform_infra/terraform.tfstate
+module-1/terraform_infra/terraform.tfstate.backup
+module-1/terraform_infra/terraform.tfvars
+module-1/terraform_infra/tfplan
