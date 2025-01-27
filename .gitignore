@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+scripts
+module-1/green_tripdata_2019-10.csv.gz
+module-1/homework.dbcnb
+module-1/output.csv
+module-1/taxi_zone_lookup.csv
+module-1/postgres_data
